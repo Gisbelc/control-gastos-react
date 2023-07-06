@@ -50,7 +50,7 @@ setIsValidPresupuesto(false)
 <div>
     <CircularProgressbar
     buildStyles={buildStyles({
-        pathColor: porcentaje > 100 ? "red" : "blue",
+        pathColor: porcentaje > 100 ? "redd" : "blue",
         trailColor: "#f5f5f5",
         textColor:"#3B82F6"
     })}
